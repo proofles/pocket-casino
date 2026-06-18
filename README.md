@@ -53,3 +53,7 @@ Bunu hobi olarak, keyif için geliştiriyorum. Beğendiysen destek olarak yeni o
 ## ⚠️ Sorumluluk reddi
 
 Pocket Casino tamamen sanal kredilerle oynanır. Gerçek para yatırma, çekme veya kazanç **yoktur**. Kumar değildir; yalnızca eğlence amaçlıdır.
+
+## 🔒 Gizlilik
+
+[Gizlilik Politikası / Privacy Policy](PRIVACY.md)
