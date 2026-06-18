@@ -8,7 +8,7 @@
 
 Novo Poker · Blackjack · Ultimate Hold'em — hepsi tek krediyle, tamamen **sanal**.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/pocketcasino)
+[![Kreosus'ta Destek Ol](https://img.shields.io/badge/Destek%20Ol-Kreosus%20%E2%98%95-E11D48?style=for-the-badge)](https://kreosus.com/pocketcasino)
 
 </div>
 
@@ -46,9 +46,9 @@ Novo Poker · Blackjack · Ultimate Hold'em — hepsi tek krediyle, tamamen **sa
 
 ## ☕ Destek ol
 
-Bunu hobi olarak, keyif için geliştiriyorum. Beğendiysen bir kahve ısmarlayarak yeni oyunlar ve özellikler eklememe destek olabilirsin:
+Bunu hobi olarak, keyif için geliştiriyorum. Beğendiysen destek olarak yeni oyunlar ve özellikler eklememe katkıda bulunabilirsin:
 
-**[buymeacoffee.com/pocketcasino](https://www.buymeacoffee.com/pocketcasino)**
+**[kreosus.com/pocketcasino](https://kreosus.com/pocketcasino)**
 
 ## ⚠️ Sorumluluk reddi
 
