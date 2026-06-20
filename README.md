@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Pocket Casino" width="120" />
+<img src="assets/logo.png" alt="Tab Vegas" width="120" />
 
-# Pocket Casino
+# Tab Vegas
 
 **Sekmende mola verirken bir el at.** Retro (Balatro-vari) görünümlü bir mini kumarhane tarayıcı eklentisi.
 
@@ -52,7 +52,7 @@ Bunu hobi olarak, keyif için geliştiriyorum. Beğendiysen destek olarak yeni o
 
 ## ⚠️ Sorumluluk reddi
 
-Pocket Casino tamamen sanal kredilerle oynanır. Gerçek para yatırma, çekme veya kazanç **yoktur**. Kumar değildir; yalnızca eğlence amaçlıdır.
+Tab Vegas tamamen sanal kredilerle oynanır. Gerçek para yatırma, çekme veya kazanç **yoktur**. Kumar değildir; yalnızca eğlence amaçlıdır.
 
 ## 🔒 Gizlilik
 

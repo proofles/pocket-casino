@@ -1,14 +1,14 @@
-# Privacy Policy — Pocket Casino
+# Privacy Policy — Tab Vegas
 
-**Last updated:** June 19, 2026
+**Last updated:** June 20, 2026
 
-Pocket Casino is a Chrome extension for casual entertainment with **virtual credits only**. There is no real-money gambling, deposits, or withdrawals.
+Tab Vegas is a Chrome extension for casual entertainment with **virtual credits only**. There is no real-money gambling, deposits, or withdrawals.
 
 ## Data we collect
 
 **We do not collect, transmit, or sell any personal data.**
 
-Pocket Casino has no backend servers, no user accounts, and no analytics or tracking.
+Tab Vegas has no backend servers, no user accounts, and no analytics or tracking.
 
 ## Data stored on your device
 
@@ -19,7 +19,7 @@ The extension uses the `storage` permission to save information **locally in you
 | Virtual credit balance | Shared wallet across all three games |
 | Settings | Language, font, card theme, card back color, animation speed |
 | Bet preferences | Last ante/bonus/trips amounts you chose |
-| In-progress game state | Resume a hand after closing the popup |
+| In-progress game state | Resume a hand after closing the side panel |
 | Recent hand history | Last 10 hands per game (cards, outcome, net result) |
 
 This data **never leaves your device**. We cannot access it.
@@ -36,12 +36,13 @@ During local development (outside the Chrome extension), the same values may be 
 | Permission | Why |
 | --- | --- |
 | `storage` | Save game progress and settings locally (see above) |
+| `sidePanel` | Open the game in Chrome’s side panel when you click the toolbar icon |
 
-No other permissions are requested. No host permissions. No remote code is loaded.
+No host permissions. No remote code is loaded.
 
 ## Children
 
-Pocket Casino is intended for general audiences as a casual game. It does not knowingly collect information from anyone.
+Tab Vegas is intended for general audiences as a casual game. It does not knowingly collect information from anyone.
 
 ## Changes
 
@@ -54,11 +55,11 @@ We may update this policy if the extension changes. The “Last updated” date 
 
 ---
 
-# Gizlilik Politikası — Pocket Casino
+# Gizlilik Politikası — Tab Vegas
 
-**Son güncelleme:** 19 Haziran 2026
+**Son güncelleme:** 20 Haziran 2026
 
-Pocket Casino, yalnızca **sanal kredi** ile oynanan bir Chrome eklentisidir. Gerçek para yatırma, çekme veya kumar yoktur.
+Tab Vegas, yalnızca **sanal kredi** ile oynanan bir Chrome eklentisidir. Gerçek para yatırma, çekme veya kumar yoktur.
 
 ## Topladığımız veri
 
@@ -81,6 +82,13 @@ Bu veriler **cihazınızdan çıkmaz**; geliştirici tarafından erişilemez.
 ## Üçüncü taraflar
 
 Destek linkleri (ör. Kreosus) **yalnızca siz tıkladığınızda** yeni sekmede açılır. Eklenti bu sitelere veri göndermez.
+
+## İzinler
+
+| İzin | Neden |
+| --- | --- |
+| `storage` | Oyun ilerlemesi ve ayarları yerel olarak saklamak |
+| `sidePanel` | Araç çubuğu ikonuna tıklayınca oyunu yan panelde açmak |
 
 ## İletişim
 
